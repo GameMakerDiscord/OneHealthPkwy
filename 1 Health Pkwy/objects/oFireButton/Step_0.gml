@@ -1,0 +1,1 @@
+visible = iStaffInfo.visible;

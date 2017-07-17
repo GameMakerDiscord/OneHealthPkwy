@@ -1,0 +1,1 @@
+staff_icon_draw(roomCat);

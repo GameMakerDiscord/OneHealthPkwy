@@ -1,0 +1,2 @@
+label = "Play!";
+onPress = playGame;

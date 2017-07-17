@@ -1,0 +1,1 @@
+if (image_index == 0) wasClicked = false;
