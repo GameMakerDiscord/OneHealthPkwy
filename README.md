@@ -3,6 +3,8 @@
 A turn-based strategy game about a hospital written in 48h for the 21st #GM48. (**Theme:** One Health)
 Written with [GameMakerStudio2](https://www.yoyogames.com/gamemaker/studio2)							
 
+Created by [babyjeans](https://twitter.com/babyj3ans) of [rousr](http://rou.sr/)
+
 ![demo](http://i.imgur.com/WpbxpIv.gif)
 
 -----------------------
